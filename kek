@@ -1,0 +1,22 @@
+{
+	"name": "Kek",
+	"colors": {
+		"main": "#514d4d",
+		"side": "#b3ffd9",
+		"text": "#e6e6ff",
+		"border-focus": "#6dccea",
+		"text-focus": "#0000ff",
+		"focus-background": "#fdfdfd",
+		"box-outline": "#000000",
+		"header-border": "#808080",
+		"button-outline": "#a9a9a9",
+		"ok": "#304FFF",
+		"ok-text": "#ffffff",
+		"online-text": "#16BD15"
+	},
+	"images": {
+		"tick": "light",
+		"yt": "light",
+		"friends": "light"
+	}
+}
